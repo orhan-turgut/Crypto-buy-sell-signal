@@ -1,6 +1,5 @@
 streamlit
 datetime
-json
 requests
 tradingview_ta
 concurrent.futures
